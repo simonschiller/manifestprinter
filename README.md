@@ -1,6 +1,6 @@
 # manifestprinter
 
-This project showcases different ways of writing backwards-compatible Gradle plugins. It accompanies a talk held at [droidcon Berlin 2022](https://berlin.droidcon.com/simon-schiller/), you can find the slides for this talk on [Speaker Deck](https://speakerdeck.com/simonschiller/writing-backwards-compatible-gradle-plugins-droidcon-berlin-2022).
+This project showcases different ways of writing backwards-compatible Gradle plugins. It accompanies a talk held at [droidcon Berlin 2022](https://www.droidcon.com/2022/08/03/writing-backwards-compatible-gradle-plugins/), you can find the slides for this talk on [Speaker Deck](https://speakerdeck.com/simonschiller/writing-backwards-compatible-gradle-plugins-droidcon-berlin-2022).
 
 ### common
 
